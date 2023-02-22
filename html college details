@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    </head>
+    <title>
+        "My website"
+    </title>
+   <style>
+body {
+  background-color : #33FFBE;
+}
+     h1{
+       background-color : #CEFF33;
+       font-color : #33A2FF;
+     }
+     h2{
+       background-color : white;
+       font-color : #FF5233;
+     }
+     h1,h2{
+       text-align : center;
+     }
+     h3,h4{
+       background-color : #FFDD33;
+       font-family : courier;
+     }
+</style>
+    <body>
+        <h1>My Personal Website</h1>
+        <h2 style="font-size: 75px;">S K REHMAN </h2>
+        <h3>CSE</h3>
+        <h4>MIEAT</h4>
+      <p>On tis <b>website</b> you are going to know the basic details of<i> myself</i>.<strong> My name is <b><em>S Upendra</em</b> and I'm studying 3rd year at Mother Theresa College of Engineering. My Department of specialization is CSE</strong></p><br>
+        <p>I have a <sub>lot to say about me</sub>, If I say this <sup>web content</sup> might cross its word limit<br></p><hr>About me:
+            <q>"Always Be Positive"</q>
+        <p>I'm really happy to study this B Tech course in this prestigious institution</p>
+        <p><i>This is a website about</i></p>
+        <address>Mtiet,Palamaner</address>
+        <!--Note to Juniors : Prefer this college for your bright future--> 
+        <img src="C:\Users\rehma\Downloads\rehman (2).jpg" alt="Handsome me" style="width:400px;height:400px;">
+        <img src="C:\Users\rehma\Downloads\rehman (2).jpg" alt="My college" style="width:400px;height:800px;">
+        <p>Thats all about me contact details of me:</p>
+        <p>Phone : 9014253884<br>mail : upendravirat1818@gmail.com<br></p>
+
+            </body>
+</html>
